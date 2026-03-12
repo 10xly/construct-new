@@ -1,6 +1,6 @@
 {
   "name": "construct-new",
-  "version": "2.0.9",
+  "version": "2.0.10",
   "description": "Like the new operator, but a function.",
   "main": "index.js",
   "scripts": {},
@@ -32,7 +32,8 @@
     "isarray": "^2.0.5",
     "lodash.stubarray": "^4.13.0",
     "node-call.next": "^1.0.1",
-    "noop6": "^1.0.9"
+    "noop6": "^1.0.9",
+    "true-value": "^3.0.3"
   },
   "devDependencies": {
     "@types/node": "^22.5.5"
